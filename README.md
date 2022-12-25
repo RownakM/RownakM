@@ -1,3 +1,4 @@
+![](https://i.ibb.co/j858qjK/Blue-Pink-Modern-Special-Offer-Sale-Banner.gif)
 <h1 align="center">Hi 👋, I'm Rownak Mazumder</h1>
 <h3 align="center">A passionate full stack Freelance developer from India</h3>
 
