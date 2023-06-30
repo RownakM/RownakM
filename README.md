@@ -26,3 +26,4 @@
 ## Stats
 
 ![Rownak's github stats](https://github-readme-stats.vercel.app/api?username=RownakM)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RownakM)](https://github.com/RownakM/)
