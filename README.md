@@ -25,4 +25,4 @@
 
 ## Stats
 
-![RownakM's Stats](https://github-readme-stats.vercel.app/api?username=RownakM&theme=radical&show_icons=true&hide_border=true&count_private=true) ![RownakM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RownakM&theme=radical&hide_border=true)
+![RownakM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RownakM&theme=radical&hide_border=true)
