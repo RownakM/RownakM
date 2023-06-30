@@ -25,5 +25,4 @@
 
 ## Stats
 
-![Rownak's github stats](https://github-readme-stats.vercel.app/api?username=RownakM)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RownakM)](https://github.com/RownakM/)
+![RownakM's Stats](https://github-readme-stats.vercel.app/api?username=RownakM&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![RownakM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RownakM&theme=tokyonight&hide_border=false) ![RownakM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RownakM&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
