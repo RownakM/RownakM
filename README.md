@@ -24,5 +24,6 @@
 </p>
 
 ## Stats
+![RownakM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RownakM&theme=radical&hide_border=true)
 
 ![RownakM's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=RownakM&custom_title=My%20Contributions&hide_border=false&theme=github-compact&area=true)
