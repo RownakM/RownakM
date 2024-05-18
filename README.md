@@ -24,7 +24,7 @@
 </p>
 
 ## Stats
-![RownakM's Badges](https://github-profile-trophy.vercel.app/?username=RownakM&margin-w=10&theme=onedark&margin-h=10)
+![RownakM's Badges](https://github-profile-trophy.vercel.app/?username=RownakM&margin-w=10&theme=onedark&margin-h=20)
 ![RownakM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RownakM&theme=radical&hide_border=true)
 ![RownakM's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=RownakM&custom_title=My%20Contributions&hide_border=false&theme=github-compact&area=true)
 
