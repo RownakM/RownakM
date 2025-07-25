@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rownak Mazumder</h1>
 <h3 align="center">A passionate full stack Freelance developer from India</h3>
 
-- 🔭 I’m currently working on building [OpenScholar](https://openscholar.in) for [Qtanea](https://qtanea.ai)
-
 - 🌱 I’m currently learning to **Build Apps With Flutter**
 
 - 📄 Know about my experiences [https://www.freelancer.com/u/rownakmazumder](https://www.freelancer.com/u/rownakmazumder)
