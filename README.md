@@ -1,34 +1,86 @@
-![](https://github.com/RownakM/RownakM/blob/main/gif.gif)
-<h1 align="center">Hi 👋, I'm Rownak Mazumder</h1>
-<h3 align="center">A passionate full stack Freelance developer from India</h3>
-
-- 🌱 I’m currently learning to **Build Apps With Flutter**
-
-- 📄 Know about my experiences [https://www.freelancer.com/u/rownakmazumder](https://www.freelancer.com/u/rownakmazumder)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.freelancer.com/u/rownakmazumder" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/upwLkj4exA23LrLmDlcBacjX9U5nbfMK79Ug15k3dRlIFvK_A9x5JdcZieuq3soMmUQ" alt="rownakr" height="30" width="30" style="border-radius: 50%" /></a>
-<a href="https://linkedin.com/in/rownakmazumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rownakmazumder" height="30" width="40" /></a>
-<a href="https://fb.com/rownakr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rownakr" height="30" width="40" /></a>
-<a href="https://github.com/RownakM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rownakr" height="30" width="40" /></a>
+<!-- Banner / GIF -->
+<p align="center">
+  <img src="https://github.com/RownakM/RownakM/blob/main/gif.gif" alt="Welcome Banner" width="800"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="python" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis" width="40" height="40" /></a>
+<h1 align="center">Hi 👋, I'm <span style="color:#58a6ff;">Rownak Mazumder</span></h1>
+<h3 align="center">💻 A Passionate Full Stack Freelance Developer from India</h3>
+
+---
+
+### 🚀 About Me  
+- 🌱 Currently learning **to build cross-platform apps with [Flutter](https://flutter.dev)**
+- 📄 Know more about my work: [Freelancer Profile](https://www.freelancer.com/u/rownakmazumder)
+
+---
+
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://www.freelancer.com/u/rownakmazumder" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/upwLkj4exA23LrLmDlcBacjX9U5nbfMK79Ug15k3dRlIFvK_A9x5JdcZieuq3soMmUQ" alt="Freelancer" width="40" style="border-radius:50%"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rownakmazumder" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://fb.com/rownakr" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/RownakM" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+  </a>
 </p>
 
-## Stats
-![RownakM's Badges](https://github-profile-trophy.vercel.app/?username=RownakM&margin-w=10&theme=onedark&margin-h=20)
-![RownakM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RownakM&theme=radical&hide_border=true)
-![RownakM's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=RownakM&custom_title=My%20Contributions&hide_border=false&theme=github-compact&area=true)
+---
 
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,aws,bootstrap,c,django,figma,flutter,gcp,js,kotlin,php,postgres,python,angular,redis&theme=light" alt="skills" />
+</p>
 
+---
 
+### 📊 GitHub Stats  
 
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=RownakM&show_icons=true&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=RownakM&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RownakM&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  </picture>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RownakM&theme=onedark&margin-w=10&margin-h=20" alt="Trophies" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RownakM&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RownakM&custom_title=My%20Contributions&hide_border=false&theme=github-compact&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 📌 Top Languages & Projects  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RownakM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/RownakM/OpenScholar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RownakM&repo=OpenScholar&theme=radical" alt="OpenScholar Repo" />
+  </a>
+</p>
+
+---
+
+💡 *Tip:* Keep your pinned repos updated to showcase your latest and best work!
